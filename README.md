@@ -16,6 +16,10 @@ or
 ## start the project
 ```npm start```
 
+This will lead to this port:
+
+```http://localhost:3000/```
+
 ## set up the structure of the dirs
 ```
 my-react-app/
