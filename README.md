@@ -36,3 +36,6 @@ my-react-app/
 └── ...
 
 ```
+
+
+``` node -r dotenv/config dist/index.js --experimental-specifier-resolution=node ```
